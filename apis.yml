@@ -1,0 +1,50 @@
+aid: flo-health
+url: https://raw.githubusercontent.com/api-evangelist/flo-health/refs/heads/main/apis.yml
+name: Flo Health
+type: Index
+kind: company
+description: >-
+  Flo Health operates the Flo app, a leading consumer period, ovulation,
+  pregnancy, and reproductive health tracker with hundreds of millions of
+  downloads worldwide. The product surface includes cycle tracking, ovulation
+  and pregnancy predictions, an AI-assisted symptom checker, Secret Chats, Flo
+  for Partners (partner-shared mode), Anonymous Mode, and a Premium
+  subscription tier. Flo's Medical Affairs team partners with clinicians and
+  researchers on women's health science. Flo is a consumer mobile product;
+  no public developer API or partner API portal has been identified at this
+  time. This entry catalogs the company surface for the API Evangelist index.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Consumer
+tags:
+  - Femtech
+  - Women's Health
+  - Reproductive Health
+  - Period Tracker
+  - Cycle Tracking
+  - Fertility
+  - Pregnancy
+  - Consumer App
+  - Mobile Health
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://flo.health/
+  - type: HelpCenter
+    url: https://help.flo.health/hc/en-us
+  - type: PrivacyPolicy
+    url: https://flo.health/privacy-policy
+  - type: Careers
+    url: https://flo.health/careers
+  - type: Press
+    url: https://flo.health/press-center
+  - type: MedicalAffairs
+    url: https://flo.health/medical-affairs-and-research
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/flo-health-inc-
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
