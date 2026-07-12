@@ -31,6 +31,10 @@ tags:
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/flo-health-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/flo-health-domain-security.yml
   - type: Website
     url: https://flo.health/
   - type: HelpCenter
