@@ -39,7 +39,7 @@ tags:
   - Pregnancy
   - Consumer App
   - Mobile Health
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: VulnerabilityDisclosure
